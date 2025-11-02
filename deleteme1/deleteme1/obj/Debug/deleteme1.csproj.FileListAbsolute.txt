@@ -1,8 +1,0 @@
-C:\Users\imbal\source\repos\deleteme1\deleteme1\bin\Debug\deleteme1.exe.config
-C:\Users\imbal\source\repos\deleteme1\deleteme1\bin\Debug\deleteme1.exe
-C:\Users\imbal\source\repos\deleteme1\deleteme1\bin\Debug\deleteme1.pdb
-C:\Users\imbal\source\repos\deleteme1\deleteme1\obj\Debug\deleteme1.csproj.AssemblyReference.cache
-C:\Users\imbal\source\repos\deleteme1\deleteme1\obj\Debug\deleteme1.csproj.SuggestedBindingRedirects.cache
-C:\Users\imbal\source\repos\deleteme1\deleteme1\obj\Debug\deleteme1.csproj.CoreCompileInputs.cache
-C:\Users\imbal\source\repos\deleteme1\deleteme1\obj\Debug\deleteme1.exe
-C:\Users\imbal\source\repos\deleteme1\deleteme1\obj\Debug\deleteme1.pdb
